@@ -42,7 +42,7 @@ Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more
 </p>
 
 <div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" /></div>
-                                                          **Figure 2**
+                                                          <p align="center">  **Figure 2**</p>
 
 
  <table>
