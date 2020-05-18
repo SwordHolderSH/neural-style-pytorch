@@ -75,5 +75,5 @@ Thanks for the reference codes as following:
 
 The main program is *neural_style.py*. Inspired by [1], I calculate the losses in iterations directly, instead of modeling them in network. I also remove the normalization, and use Adam optimizer. 
 
-The optimization speed of this code may slower than other PyTorch codes, which needs more epochs, but I don't know why.
+The optimization speed of this code may be slower than other PyTorch codes, which needs more epochs.
 
