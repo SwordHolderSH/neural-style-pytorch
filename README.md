@@ -32,15 +32,15 @@ I try some other codes for neural-style-pytorch, but their outputs may become no
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td>
  </tr>
  </table>
-   **Table 1**
+  <p align="center"> **Table 1**</p>
 
--
-Our output as shown in Figure 2, the outputs may be more stable, and will not become noise suddenly.
+<p align="left">Our output as shown in Figure 2, the outputs may be more stable, and will not become noise suddenly.</p>
 
 <div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
                                                           **Figure 2**
--
+<p align="left">
 Outputs of some epochs as shown in Table 2.
+</p>
    
  <table>
  <tr>
@@ -58,5 +58,5 @@ Outputs of some epochs as shown in Table 2.
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_100000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_500000.jpg" width="200" /></td>
  </tr> 
  </table>
-                                           **Table 2**
+ <p align="center">**Table 2**</p>                            
 
