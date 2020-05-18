@@ -30,11 +30,15 @@ Therefore, I simply implement the method of "A Neural Algorithm of Artistic Styl
  </tr>
  </table>
   Table 1
+    
 Our output as shown in Figure 2, the outputs may be more stable, and will not become noise suddenly.
+
+  
  .<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
                                                           Figure 2
+    
  Outputs of some epochs as shown in Table 2.
-  
+   
  <table>
  <tr>
    <td>epoch 0</td><td>epoch 1000</td><td>epoch 5000</td><td>epoch 10000</td>
@@ -49,7 +53,7 @@ Our output as shown in Figure 2, the outputs may be more stable, and will not be
  </tr>
   
    <tr>
-   <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_1000000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_500000.jpg" width="200" /></td>
+   <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_100000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_500000.jpg" width="200" /></td>
  </tr>
    
  </table>
