@@ -5,7 +5,7 @@ A fast PyTorch implementation of "A Neural Algorithm of Artistic Style"
 
 I try some other codes for neural-style-pytorch, but their outputs may become noise in some epochs, such as epoch 45, 170 and 230 in Figure1. I don't know why.  
 
-<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/output.png" width="900" />        
+<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/output.png" width="900" /> </div>      
 <p align="center">**Figure 1**</p>
 
 ## Results
