@@ -10,8 +10,8 @@ I try some other codes for neural-style-pytorch, but their outputs may become no
 
 
 
+<p align="leftr">## Results</p>
 
-## Results
 
 Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576).
  <table>
