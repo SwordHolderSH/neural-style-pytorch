@@ -66,5 +66,7 @@ Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more
  <p align="left"></p>
  
 ## Acknowledge
-<p align="left">Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576). The output as shown in Table 1. </p>
+
+Thanks for the codes of fast_neural_style https://github.com/pytorch/examples/tree/master/fast_neural_style; neural-style-pytorch https://github.com/Zhenye-Na/neural-style-pytorch; neural-style-pytorch https://github.com/L1aoXingyu/neural-transfer. 
+Inspired by fast_neural_style https://github.com/pytorch/examples/tree/master/fast_neural_style, instead of modeling losses, we calculate them in iteration directly.
 
