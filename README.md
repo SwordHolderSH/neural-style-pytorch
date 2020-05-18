@@ -73,5 +73,7 @@ Thanks for the reference codes as following:
 [2] neural-style-pytorch https://github.com/Zhenye-Na/neural-style-pytorch   
 [3] neural-style-pytorch https://github.com/L1aoXingyu/neural-transfer     
 
-The main program is *neural_style.py*. Inspired by [1], I calculate the losses in iterations directly, instead of modeling them in network. I also remove the normalization, and use Adam optimizer. The optimization speed of this code may slower than other PyTorch codes, which needs more epochs, but I don't know why.
+The main program is *neural_style.py*. Inspired by [1], I calculate the losses in iterations directly, instead of modeling them in network. I also remove the normalization, and use Adam optimizer. 
+
+The optimization speed of this code may slower than other PyTorch codes, which needs more epochs, but I don't know why.
 
