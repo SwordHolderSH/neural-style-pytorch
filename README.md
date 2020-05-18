@@ -1,5 +1,5 @@
 # neural-style-pytorch
-A fast PyTorch implementation of "A Neural Algorithm of Artistic Style"
+A simple PyTorch implementation of "A Neural Algorithm of Artistic Style"
 
 ## introduction
 
@@ -67,6 +67,11 @@ Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more
  
 ## Acknowledge
 
-Thanks for the codes of fast_neural_style https://github.com/pytorch/examples/tree/master/fast_neural_style; neural-style-pytorch https://github.com/Zhenye-Na/neural-style-pytorch; neural-style-pytorch https://github.com/L1aoXingyu/neural-transfer. 
-Inspired by fast_neural_style https://github.com/pytorch/examples/tree/master/fast_neural_style, instead of modeling losses, we calculate them in iterations directly.
+Thanks for the codes as following:
+
+[1] fast_neural_style https://github.com/pytorch/examples/tree/master/fast_neural_style 
+[2] neural-style-pytorch https://github.com/Zhenye-Na/neural-style-pytorch 
+[3] neural-style-pytorch https://github.com/L1aoXingyu/neural-transfer. 
+
+Inspired by [1], I calculate the losses in iterations directly, instead of modeling them in network. I also remove the normalization, and use Adam optimizer. The optimization speed of this code may slower than other PyTorch codes, which needs more epochs, but I don't know why.
 
