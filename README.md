@@ -43,7 +43,8 @@ Outputs of some epochs as shown in Table 2 and Figure 2, the outputs may be more
 
 <div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
                                                           **Figure 2**
-   
+
+
  <table>
  <tr>
    <td>epoch 0</td><td>epoch 1000</td><td>epoch 5000</td><td>epoch 10000</td>
