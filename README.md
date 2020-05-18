@@ -63,6 +63,7 @@ Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more
  </tr> 
  </table>
  <p align="center">**Table 2**</p>     
+ <p align="left"></p>
  
  ## Acknowledge
 <p align="left">Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576). The output as shown in Table 1. </p>
