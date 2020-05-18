@@ -3,13 +3,13 @@ A fast PyTorch implementation of "A Neural Algorithm of Artistic Style"
 
 ## introduction
 
-I try some other codes for neural-style-pytorch, but their outputs may become noise in some epochs, such as epoch 45, 170 and 230 in Figure1. I don't know why.  
+I try some other codes for neural-style-pytorch, but their outputs may become noise in some epochs, such as epoch 45, 170 and 230 in Figure 1. I don't know why. Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576).
 
 <div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/output.png" width="900" /> </div>      
 <p align="center">**Figure 1**</p>
 
 ## Results
-<p align="left">Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576). The output as shown in Table 1. </p>
+<p align="left"> The output as shown in Table 1. </p>
 
 
  <table>
@@ -41,7 +41,7 @@ I try some other codes for neural-style-pytorch, but their outputs may become no
 Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more stable, and will not become noise suddenly.
 </p>
 
-<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
+<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" /></div>
                                                           **Figure 2**
 
 
