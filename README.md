@@ -52,10 +52,11 @@ Outputs of some epochs as shown in Table 2.
  </tr>
 
  <tr>
-   <td>epoch 100000</td><td>epoch 200000</td><td>epoch 300000</td><td>epoch 500000</td>
+   <td>epoch 50000</td><td>epoch 100000</td><td>epoch 200000</td><td>epoch 300000</td>
  </tr>
    <tr>
-   <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_100000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_500000.jpg" width="200" /></td>
+ <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_50000.jpg" width="200" /></td>
+   <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_100000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td>
  </tr> 
  </table>
  <p align="center">**Table 2**</p>                            
