@@ -38,7 +38,7 @@ I try some other codes for neural-style-pytorch, but their outputs may become no
 
 
 <p align="left">
-Outputs of some epochs as shown in Table 2 and Figure 2, the outputs may be more stable, and will not become noise suddenly.
+Outputs of some epochs as shown in Figure 2 and Table 2, the outputs may be more stable, and will not become noise suddenly.
 </p>
 
 <div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
@@ -62,5 +62,8 @@ Outputs of some epochs as shown in Table 2 and Figure 2, the outputs may be more
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_100000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_200000.jpg" width="200" /></td><td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/test/out_300000.jpg" width="200" /></td>
  </tr> 
  </table>
- <p align="center">**Table 2**</p>                            
+ <p align="center">**Table 2**</p>     
+ 
+ ## Acknowledge
+<p align="left">Therefore, I simply implement the method of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576). The output as shown in Table 1. </p>
 
