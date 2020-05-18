@@ -32,7 +32,7 @@ Therefore, I simply implement the method of "A Neural Algorithm of Artistic Styl
  </table>
   Table 1
     
- Our output as shown in Figure 2, the outputs may be more stable, and will not become noise suddenly.
+Our output as shown in Figure 2, the outputs may be more stable, and will not become noise suddenly.
 
   
  .<div align=center>  <img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/my_output.jpg" width="900" />
